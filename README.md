@@ -21,7 +21,7 @@
 - **Дедлайн**: 30 января, 18:00 | Ссылка для сдачи проекта: [SAICBD Google Form](https://forms.gle/AQRfg3f6g46RmoSdA)
 - **Объявление результатов**: 31 января|
 
-### Советы для новичков
+## 💁‍♂️ Советы для новичков
 - Не бойтесь ошибок! Они - часть процесса обучения.
 - Используйте Google, Perplexity, ChatGPT, Claude и другие инструменты для поиска решений проблем и разработки своего решения.
 - Задавайте вопросы менторам - они здесь, чтобы помочь: 
@@ -83,15 +83,15 @@ def handle_message(message):
 
 ### Шаг 7-8: Интеграция дополнительного API
 Выберите один из предложенных API:
-1. OpenWeatherMap API
-2. News API
-3. CoinGecko API
-4. NASA API
-5. The Cat API
-6. REST Countries API
+1. [OpenWeatherMap API](https://openweathermap.org/api)
+2. [News API](https://newsapi.org/)
+3. [CoinGecko API](https://www.coingecko.com/en/api)
+4. [NASA API](https://api.nasa.gov/)
+5. [The Cat API](https://thecatapi.com/)
+6. [REST Countries API](https://restcountries.com/)
 7. Любой другой бесплатный API
 
-Пример интеграции Weather API:
+**Пример интеграции Weather API:**
 ```python
 import requests
 
@@ -171,6 +171,5 @@ https://github.com/silvermete0r/nasa_daily_bot
 - `git push` - отправить изменения на GitHub
 
 ### Полезные ресурсы для обучения
-- [Python для начинающих](https://www.python.org/about/gettingstarted/)
-- [Документация Telegram Bot API](https://core.telegram.org/bots/api)
 - [Полное руководство по Python для учащихся Skillset](https://github.com/silvermete0r/Skillset_learning_python_projects)
+- [Документация Telegram Bot API](https://core.telegram.org/bots/api)
